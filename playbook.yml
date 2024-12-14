@@ -1,5 +1,5 @@
 - name: Configure nginx web server
-  hosts: myservers
+  hosts: myserver
   become: true
   become_user: root
   become_method: sudo
