@@ -1,0 +1,8 @@
+[myservers]
+master ansible_host=3.88.254.205 
+worker ansible_host=52.55.122.216
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
+
