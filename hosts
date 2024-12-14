@@ -1,5 +1,4 @@
-[myservers]
-master ansible_host=3.88.254.205 
+[myserver]
 worker ansible_host=52.55.122.216
 
 [all:vars]
